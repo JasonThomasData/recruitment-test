@@ -26,7 +26,7 @@ John is a High School Graduate and wants to become a Software Engineer
 Can be answered with:
 `High School Graduate - Bachelor of Computer Science - Software Engineer`
 
-There's not required format for the answer. There might be multiple answer and it's up to you which one to choose.
+There's no required format for the answer. There might be multiple answers and it's up to you to choose one.
 
 ## More info
 
