@@ -15,7 +15,8 @@ Example:
 3-Software Engineer
 1
 1 2
-John is a High School Graduate and wants to become a Software Engineer```
+John is a High School Graduate and wants to become a Software Engineer
+```
 
 Can be answered with:
 ```High School Graduate - Bachelor of Computer Science - Software Engineer
