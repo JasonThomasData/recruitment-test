@@ -3,9 +3,13 @@
 ## About the input
 
 The input is made of three sections.
+
 The first one has a number *n* with the number of lines that the first section will have.
+
 Then comes *n* lines, each one with a number *i* and a string *s* in the following format: *i*-*s*. The number is just an identifier that you are going to use later to link each career position in order to build a path. The string is the name of the career position.
+
 A number *e* comes and *e* lines follows it, containing two numbers, *j* and *k*, that represents the identifier of the career position.
+
 Then comes a number *a* and the following *a* lines must be answered with a possible career path.
 
 Example:
