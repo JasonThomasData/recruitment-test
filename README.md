@@ -13,12 +13,13 @@ A number *e* comes and *e* lines follows it, containing two numbers, *j* and *k*
 Then comes a number *a* and the following *a* lines must be answered with a possible career path.
 
 Example:
-```1
+```3
 1-High School Graduate
 2-Bachelor of Computer Science
 3-Software Engineer
-1
+2
 1 2
+2 3
 John is a High School Graduate and wants to become a Software Engineer
 ```
 
