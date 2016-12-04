@@ -21,6 +21,7 @@ Example:
 2
 1 2
 2 3
+1
 John is a High School Graduate and wants to become a Software Engineer
 ```
 
@@ -31,6 +32,6 @@ There's no required format for the answer. There might be multiple answers and i
 
 ## More info
 
-* You can use any language.
+* You must use Python 2/3.
 * The idea is more important than the correctness of the answers.
 * Test your code.
